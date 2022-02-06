@@ -1,4 +1,4 @@
-//import export module conepts
+//import export module conepts // 
 
 // import{hello} from './sel.js'
 // import{data as d} from './sel.js'
